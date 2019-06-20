@@ -1,5 +1,5 @@
 {
-  "name"        : "paypal-ec",
+  "name"        : "@noblesam/paypal-ec",
   "version"     : "0.2.7",
   "description" : "An API wrapper for PayPal's Express Checkout.",
   "keywords"    : [ "paypal", "express", "checkout", "payment" ],
