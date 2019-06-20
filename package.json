@@ -18,6 +18,10 @@
   "homepage": "",
   "bugs": "https://github.com/dreamerslab/paypal-ec/issues",
   "main": "index",
+  "files": [
+    "index.js",
+    "/lib"
+  ],
   "engines": [
     "node >= 0.6.0"
   ],
